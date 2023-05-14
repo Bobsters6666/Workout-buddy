@@ -3,6 +3,7 @@
  npm install
  
  
+ 
  #frontend
  
  cd frontend
@@ -10,6 +11,7 @@
  npm install 
  
  npm start
+ 
  
  
  #backend
@@ -21,4 +23,4 @@
  npm run dev
  
  
- Make sure to have both backend and frontend up and running
+ 
