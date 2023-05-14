@@ -2,6 +2,23 @@
  
  npm install
  
- #frontend: npm start
  
- #backend: npm run dev
+ #frontend
+ 
+ cd frontend
+ 
+ npm install 
+ 
+ npm start
+ 
+ 
+ #backend
+ 
+ cd backend
+ 
+ npm install
+ 
+ npm run dev
+ 
+ 
+ Make sure to have both backend and frontend up and running
